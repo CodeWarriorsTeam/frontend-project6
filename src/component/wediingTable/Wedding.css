@@ -1,0 +1,56 @@
+.link1 {
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 1.3rem;
+  margin-left: 8%;
+  transform: translate(0em, 2em);
+  color: rgba(0, 0, 0);
+}
+.link1:hover {
+  color: rgba(0, 0, 0);
+}
+#hall {
+  margin-top: 55px;
+}
+.wedding {
+  margin-top: -1250px;
+  margin-left: 500px;
+}
+.div {
+  background-color: rgba(184, 19, 206, 0.404);
+  width: 16%;
+  height: 1310px;
+  margin-top: 4%;
+}
+#upl {
+  font-size: 1.5rem;
+}
+#upload1 {
+  background-color: rgba(184, 19, 206, 0.404) !important;
+
+  width: 10%;
+}
+#tables {
+  margin-left: 300px;
+}
+
+#column {
+  width: 2px;
+  color: rgba(203, 15, 228, 0.404);
+}
+#button-delete {
+  transform: translate(14em, -18.5em);
+  color: black;
+  height: 40px;
+  width: 15%;
+  background-color: rgba(184, 19, 206, 0.404);
+  border: 1px solid rgba(184, 19, 206, 0.404);
+}
+#button-update {
+  transform: translate(19.5em, -14em);
+  color: black;
+  width: 15%;
+
+  background-color: rgba(184, 19, 206, 0.404);
+  border: 1px solid rgba(184, 19, 206, 0.404);
+}
