@@ -95,7 +95,7 @@ const Address = ({ num, setNum, place, searchHall, setALLHalls, setPlace }) => {
     }
   };
   // ------
-  // ------------------------------------------------------------------------------
+  // --//----------------------------------------------------------------------------
   const countNumAll = async () => {
     try {
       const res = await axios.get(
